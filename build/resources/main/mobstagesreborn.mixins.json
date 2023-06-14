@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.sixik.mobstagesreborn.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mobstagesreborn.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

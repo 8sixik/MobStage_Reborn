@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: mobstagesreborn
+Specification-Vendor: sixik
+Specification-Version: 1
+Implementation-Title: mobstagesreborn
+Implementation-Version: 0.0.1
+Implementation-Vendor: sixik
+Implementation-Timestamp: 2023-06-13T20:53:51+0300
+MixinConfigs: mobstagesreborn.mixins.json
+
